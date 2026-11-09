@@ -1,0 +1,12 @@
+$buttonBackground: #16AO85;
+$buttonColor: #FFFFF;
+$buttonPadding: 5px;
+
+.button {
+  background: $buttonBackground;
+  border-radius: 8px;
+  color: $buttonColor;
+  display: inline-block;
+  padding: $buttonPadding;
+  text-decoration: none;
+}
